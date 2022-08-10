@@ -1,0 +1,23 @@
+{
+  "name": "data_entry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "fast-csv": "^4.3.6",
+    "fs": "0.0.1-security",
+    "json2csv": "^5.0.6",
+    "nodemailer": "^6.6.3",
+    "pg": "^8.7.1",
+    "read-excel-file": "^5.2.8",
+    "wbm": "^1.1.16"
+  }
+}
